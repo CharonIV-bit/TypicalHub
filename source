@@ -1,4 +1,4 @@
-  
+
 if _G.typicalisskid ~= true then
     _G.typicalisskid = true
     game:GetService("RunService").Heartbeat:Connect(function()
@@ -363,7 +363,7 @@ TextLabel_3.BackgroundTransparency = 1.000
 TextLabel_3.Position = UDim2.new(0.284482747, 0, 0.0976109207, 0)
 TextLabel_3.Size = UDim2.new(0, 200, 0, 20)
 TextLabel_3.Font = Enum.Font.Gotham
-TextLabel_3.Text = "New crappy UI"
+TextLabel_3.Text = "Homebrew on top"
 TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_3.TextSize = 20.000
 
@@ -373,7 +373,7 @@ TextLabel_4.BackgroundTransparency = 1.000
 TextLabel_4.Position = UDim2.new(0.284482747, 0, 0.119453922, 0)
 TextLabel_4.Size = UDim2.new(0, 200, 0, 20)
 TextLabel_4.Font = Enum.Font.Gotham
-TextLabel_4.Text = "Fixes within merges (hopefully)"
+TextLabel_4.Text = "Nullware good too"
 TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_4.TextSize = 20.000
 
@@ -383,7 +383,7 @@ TextLabel_5.BackgroundTransparency = 1.000
 TextLabel_5.Position = UDim2.new(0.284482747, 0, 0.1447099, 0)
 TextLabel_5.Size = UDim2.new(0, 200, 0, 20)
 TextLabel_5.Font = Enum.Font.Gotham
-TextLabel_5.Text = "and we added support to void."
+TextLabel_5.Text = "Typical is a skid"
 TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_5.TextSize = 20.000
 
@@ -401,7 +401,7 @@ memes.BackgroundTransparency = 1.000
 memes.Position = UDim2.new(0.330464691, 0, 0.0210210215, 0)
 memes.Size = UDim2.new(0, 197, 0, 25)
 memes.Font = Enum.Font.SourceSansItalic
-memes.Text = "shiba hub users : it works tho!"
+memes.Text = "Enjoy the leak"
 memes.TextColor3 = Color3.fromRGB(255, 255, 255)
 memes.TextSize = 20.000
 
